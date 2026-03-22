@@ -51,7 +51,7 @@ Reports are published at
 
 ## Community
 
-[discord.gg/WaqGgG49]https://discord.gg/WaqGgG49
+[Discord]https://discord.gg/WaqGgG49
 
 ---
 
