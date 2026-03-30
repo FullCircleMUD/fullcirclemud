@@ -45,9 +45,9 @@ how the game economy is managed.
 Reports are published at
 [github.com/fullcirclemud/transparency](https://github.com/fullcirclemud/transparency)
 
-## Community
+## Discord
 
-[Discord](https://discord.gg/j8b5GkysM3)
+**https://discord.gg/j8b5GkysM3**
 
 ---
 
