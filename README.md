@@ -4,20 +4,22 @@
 
 FullCircleMUD is an old-school text-based multiplayer
 game — a MUD in the tradition of the 1990s classics —
-rebuilt from the ground up with a modern twist: everything
-you earn is real.
+rebuilt from the ground up with a modern twist:
+everything you earn is yours, on-chain.
 
-Gold, weapons, armour, rare items — all of it lives on
-the XRP Ledger. When you log off, your game assets don't
-disappear into a company database. It's on-chain.
-Yours.
+Gold and resources are issued currencies on the XRP
+Ledger. Crafted items are NFTs. Trade with other
+players, export to your own wallet, or keep
+adventuring. When you log off, your wealth doesn't
+disappear into a company database. It's on the
+blockchain. Yours.
 
 ## Repositories
 
 | Repository | Description |
 |---|---|
 | [game](https://github.com/fullcirclemud/game) | Game server source code |
-| [transparency](https://github.com/fullcirclemud/transparency) | Monthly financial reports and compliance framework |
+| [transparency](https://github.com/fullcirclemud/transparency) | Game economy reports |
 
 ## Play
 
@@ -27,21 +29,18 @@ Pre-alpha will be launching soon on the XRPL testnet.
 Join the community to follow development and
 get access when alpha opens.
 
-## Open Source
+## Source Available
 
-FullCircleMUD is open source. The game server code
-is freely available, forkable, and we welcome
-contributions. If you want to help build the world,
-read the contributing guidelines in the
-[game](https://github.com/fullcirclemud/game)
-repository.
+FullCircleMUD source code is publicly available under
+the [Business Source License 1.1](https://github.com/fullcirclemud/game/blob/main/LICENSE).
+On 2030-03-31, the licence converts to AGPL-3.0.
 
 ## Transparency
 
-FullCircleMUD publishes monthly game economy reports
-operating income and expenses, and reinvestment activity. 
-We think players participating in a game economy deserve 
-to know how it's managed.
+FullCircleMUD publishes periodic game economy reports
+covering gold circulation, player activity, and
+operating expenses. We think players deserve to know
+how the game economy is managed.
 
 Reports are published at
 [github.com/fullcirclemud/transparency](https://github.com/fullcirclemud/transparency)
