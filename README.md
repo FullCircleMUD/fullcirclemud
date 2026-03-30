@@ -8,9 +8,7 @@ rebuilt from the ground up with a modern twist: everything
 you earn is real.
 
 Gold, weapons, armour, rare items — all of it lives on
-the XRP Ledger. Trade with other players, hold it, or
-redeem it directly through the website (in eligible
-countries). When you log off, your wealth doesn't
+the XRP Ledger. When you log off, your game assets don't
 disappear into a company database. It's on-chain.
 Yours.
 
@@ -40,11 +38,10 @@ repository.
 
 ## Transparency
 
-FullCircleMUD publishes monthly financial reports
-covering reserve positions, operating income and
-expenses, and reinvestment activity. We think players
-who put real value into a game economy deserve to
-know how it's managed.
+FullCircleMUD publishes monthly game economy reports
+operating income and expenses, and reinvestment activity. 
+We think players participating in a game economy deserve 
+to know how it's managed.
 
 Reports are published at
 [github.com/fullcirclemud/transparency](https://github.com/fullcirclemud/transparency)
