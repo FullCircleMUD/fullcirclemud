@@ -56,4 +56,4 @@ Reports are published at
 ---
 
 *Built with [XRP Ledger](https://xrpl.org) —
-fast, low-cost, and genuinely decentralised.*
+fast, low-cost, and decentralised.*
