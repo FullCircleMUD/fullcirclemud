@@ -5,29 +5,33 @@
 FullCircleMUD is an old-school text-based multiplayer
 game — a MUD in the tradition of the 1990s classics —
 rebuilt from the ground up with a modern twist:
-everything you earn is yours, on-chain.
+true ownership on the blockchain.
 
 Gold and resources are issued currencies on the XRP
 Ledger. Crafted items are NFTs. Trade with other
 players, export to your own wallet, or keep
-adventuring. When you log off, your wealth doesn't
-disappear into a company database. It's on the
-blockchain. Yours.
+adventuring. When you log off, your items don't
+disappear into a company database. They persist
+on the ledger. Yours.
 
 ## Repositories
 
 | Repository | Description |
 |---|---|
-| [game](https://github.com/fullcirclemud/game) | Game server source code |
-| [transparency](https://github.com/fullcirclemud/transparency) | Game economy reports |
+| [game](https://github.com/fullcirclemud/game) | Game server — Evennia/Django, combat, economy, quests, AI NPCs |
+| [design](https://github.com/fullcirclemud/design) | Design documents — economy models, combat architecture, world structure |
+| [lore](https://github.com/fullcirclemud/lore) | World lore — YAML knowledge base for NPC intelligence |
+| [nft_api](https://github.com/fullcirclemud/nft_api) | NFT metadata API — XLS-24d compliant metadata service for XRPL marketplaces |
+| [cosigner](https://github.com/fullcirclemud/cosigner) | XRPL co-signing service — multisig transaction validation and co-signing |
+| [transparency](https://github.com/fullcirclemud/transparency) | Game economy reports and compliance framework |
 
 ## Play
 
 **https://fcmud.world**
 
-Pre-alpha will be launching soon on the XRPL testnet.
-Join the community to follow development and
-get access when alpha opens.
+FullCircleMUD is in pre-alpha development.
+Join the community to follow progress and get
+early access when alpha opens.
 
 ## Source Available
 
