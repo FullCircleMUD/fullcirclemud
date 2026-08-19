@@ -16,13 +16,42 @@ on the ledger. Yours.
 
 ## Repositories
 
+### The game
+
 | Repository | Description |
 |---|---|
 | [game](https://github.com/fullcirclemud/game) | Game server — Evennia/Django, combat, economy, quests, AI NPCs |
-| [design](https://github.com/fullcirclemud/design) | Design documents — economy models, combat architecture, world structure |
-| [lore](https://github.com/fullcirclemud/lore) | World lore — YAML knowledge base for NPC intelligence |
+| [fcm-umbrella](https://github.com/fullcirclemud/fcm-umbrella) | Development workspace — system design docs and the shared tooling that spans every FCM repo |
+| [temp-website](https://github.com/fullcirclemud/temp-website) | Holding site for fcmud.world during pre-alpha — Astro, static output |
+
+### Evennia libraries
+
+Reusable extensions to [Evennia](https://www.evennia.com/), written for
+FullCircleMUD but not tied to it. Each library ships with its own test data.
+
+| Repository | Description |
+|---|---|
+| [evennia-shards](https://github.com/fullcirclemud/evennia-shards) | Split deployment and horizontal sharding for Evennia, selected by config alone |
+| [evennia-world-builder](https://github.com/fullcirclemud/evennia-world-builder) | YAML-driven world building for Evennia |
+| [evennia-world-builder-test-yaml](https://github.com/fullcirclemud/evennia-world-builder-test-yaml) | Test YAML for the world-builder library |
+| [evennia-mob-spawner](https://github.com/fullcirclemud/evennia-mob-spawner) | Declarative YAML mob spawn system for Evennia |
+| [evennia-mob-spawner-test-yaml](https://github.com/fullcirclemud/evennia-mob-spawner-test-yaml) | Test spawn YAML for the mob-spawner library |
+| [evennia-mob-spawner-test-world](https://github.com/fullcirclemud/evennia-mob-spawner-test-world) | Test world for the mob-spawner library |
+| [evennia-yaml-reader](https://github.com/fullcirclemud/evennia-yaml-reader) | YAML reader with GitHub and local implementations, used by the libraries above |
+
+### Blockchain services
+
+| Repository | Description |
+|---|---|
 | [nft_api](https://github.com/fullcirclemud/nft_api) | NFT metadata API — XLS-24d compliant metadata service for XRPL marketplaces |
 | [cosigner](https://github.com/fullcirclemud/cosigner) | XRPL co-signing service — multisig transaction validation and co-signing |
+
+### World and reports
+
+| Repository | Description |
+|---|---|
+| [lore](https://github.com/fullcirclemud/lore) | World lore — YAML knowledge base for NPC intelligence |
+| [design](https://github.com/fullcirclemud/design) | Design documents — economy models, combat architecture, world structure |
 | [transparency](https://github.com/fullcirclemud/transparency) | Game economy reports and compliance framework |
 
 ## Play
